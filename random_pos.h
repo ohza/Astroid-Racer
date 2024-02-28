@@ -1,0 +1,1 @@
+int GetRandomStartPos(int min, int max);
